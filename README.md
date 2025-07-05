@@ -1,11 +1,17 @@
 <table>
   <tr>
     <td width="300" align="center" valign="top">
-      <div style="width: 280px; height: 280px; overflow: hidden; padding: 12px; border-radius: 12px; background-color: #f5f5f5;">
-        <img 
-          src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-          style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;" 
-        />
+      <div style="
+        width: 280px;
+        height: 280px;
+        background-image: url('https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 12px;
+        padding: 12px;
+        background-color: #f5f5f5;
+      ">
       </div>
     </td>
     <td valign="top" style="padding: 10px 0 10px 20px;">
@@ -19,6 +25,7 @@
     </td>
   </tr>
 </table>
+
 
 <br />
 

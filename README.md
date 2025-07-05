@@ -1,14 +1,16 @@
 <table>
   <tr>
-    <td width="300" align="center" valign="top">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
+    <td width="320" align="center" valign="top">
+      <div style="padding: 12px; border-radius: 12px; background-color: #f5f5f5;">
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" style="border-radius: 10px;" />
+      </div>
     </td>
-    <td style="padding-left: 20px;" valign="top">
+    <td valign="top" style="padding: 10px 0 10px 20px;">
       <h1>Hi 👋, I'm John</h1>
       <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
       <p>
-        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
-        Passionate about backend engineering and interested in DevOps practices.<br>
+        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br />
+        Passionate about backend engineering and interested in DevOps practices.<br />
         Focused on building scalable systems, writing clean code, and continuous learning.
       </p>
     </td>

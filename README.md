@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="320" align="center" valign="top">
-      <div style="padding: 10px;">
-        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" />
+    <td width="300" align="center" valign="top">
+      <div style="width: 100%; max-width: 280px; padding: 12px; border-radius: 12px; background-color: #f5f5f5;">
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="width: 100%; border-radius: 10px;" />
       </div>
     </td>
     <td valign="top" style="padding: 10px 0 10px 20px;">

@@ -1,13 +1,22 @@
-### <img align="left" width="300" style="padding-right:20px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<div style="display: flex; align-items: center; gap: 20px;">
 
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
+  <img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
 
-<p align="left">
-  <strong>Fullstack Developer</strong> with over 1 year of experience in web development.  
-  Passionate about backend engineering and interested in DevOps practices.  
-  Focused on building scalable systems, writing clean code, and continuous learning.
-</p>
+  <div>
+
+  <h1>Hi 👋, I'm John</h1>
+  <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
+
+  <p>
+    <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
+    Passionate about backend engineering and interested in DevOps practices.<br>
+    Focused on building scalable systems, writing clean code, and continuous learning.
+  </p>
+
+  </div>
+
+</div>
+
 
 
 ## 📫 Contact Me

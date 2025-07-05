@@ -23,8 +23,8 @@
 
 ## 📫 Contact Me
 <p align="center" style="padding-top: 10px;">
-  <a href="mailto:khoidang2110@@gmail.com"><img src="https://img.shields.io/badge/Gmail-marta.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/khoidang2110"><img src="https://img.shields.io/badge/GitHub-marta--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:khoidang2110@@gmail.com"><img src="https://img.shields.io/badge/Gmail-khoidang2110@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/khoidang2110"><img src="https://img.shields.io/badge/GitHub-khoidang2110-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---

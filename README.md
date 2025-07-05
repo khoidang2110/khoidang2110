@@ -1,31 +1,14 @@
 <table>
   <tr>
-    <td width="300" align="center" valign="top" style="padding: 10px;">
-      <div style="
-        width: 100%;
-        height: 0;
-        padding-bottom: 100%;
-        position: relative;
-        border-radius: 12px;
-        overflow: hidden;
-        border: 1px solid #ccc;
-      ">
-        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-             alt="Profile Gif"
-             style="
-               position: absolute;
-               width: 100%;
-               height: 100%;
-               object-fit: cover;
-             " />
-      </div>
+    <td width="300" align="center" valign="top">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
     </td>
-    <td valign="top" style="padding: 10px 0 10px 20px;">
+    <td style="padding-left: 20px;" valign="top">
       <h1>Hi 👋, I'm John</h1>
       <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
       <p>
-        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br />
-        Passionate about backend engineering and interested in DevOps practices.<br />
+        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
+        Passionate about backend engineering and interested in DevOps practices.<br>
         Focused on building scalable systems, writing clean code, and continuous learning.
       </p>
     </td>

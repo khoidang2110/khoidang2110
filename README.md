@@ -1,4 +1,4 @@
-<table border="0" style="border-collapse: collapse; border: none;">
+<table>
   <tr>
     <td width="300" align="center" valign="top">
       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />

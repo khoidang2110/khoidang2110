@@ -1,15 +1,6 @@
 ### <img align="left" width="300" style="padding-right:20px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
-
-<p align="right" width="400">
-  <strong>Fullstack Developer</strong> with 1+ year in web development. 
-  Skilled in building scalable, high-performance web apps using <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, and styling with <strong>Tailwind CSS</strong> and <strong>Ant Design</strong>. 
-  Backend experience with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>PostgreSQL (Prisma)</strong>. 
-  Comfortable with <strong>CI/CD</strong>, <strong>Docker</strong>, and <strong>GitHub Actions</strong>. 
-  Passionate about clean code, system design, and continuous learning.
-</p>
+<h1 align="center">Hi 👋, I'm John</h1> <h3 align="center">A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3> <p align="right" width="400"> <strong>Fullstack Developer</strong> with over 1 year of experience in modern web development.<br> Passionate about backend engineering and actively exploring DevOps practices to build scalable, reliable systems.<br> Strong understanding of system design and commitment to writing clean, maintainable code. </p>
 
 ---
 

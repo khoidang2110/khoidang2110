@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
 
 <p align="right" width="400">
-  <strong>Fullstack Developer</strong> with 5+ years of experience in logistics and 1+ year in web development. 
+  <strong>Fullstack Developer</strong> with 1+ year in web development. 
   Skilled in building scalable, high-performance web apps using <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, and styling with <strong>Tailwind CSS</strong> and <strong>Ant Design</strong>. 
   Backend experience with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>PostgreSQL (Prisma)</strong>. 
   Comfortable with <strong>CI/CD</strong>, <strong>Docker</strong>, and <strong>GitHub Actions</strong>. 

@@ -1,6 +1,6 @@
 ### <img align="left" width="300" style="padding-right:20px" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
-<h1 align="center">Hi 👋, I'm Marta</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
 
 <p align="right" width="400">
@@ -60,24 +60,4 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
 
-## 📜 Certificates
-
-* [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?logo=freeCodeCamp&logoColor=white&style=for-the-badge)](https://www.freecodecamp.org/certification/yourUsername/responsive-web-design)
-* [![JavaScript Algorithms](https://img.shields.io/badge/freeCodeCamp-JavaScript_Algorithms-0A0A23?logo=freeCodeCamp&logoColor=white&style=for-the-badge)](https://www.freecodecamp.org/certification/yourUsername/javascript-algorithms)
-
----
-
-## 📊 GitHub Stats
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marta-dev&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=5&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
-    </td>
-    <td>
-      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding gif" width="100%"/>
-    </td>
-  </tr>
-</table>

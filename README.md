@@ -4,11 +4,11 @@
 <h3 align="center">A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
 
 <p align="right">
-  <strong>Fullstack Developer</strong> with over 2 year of experience in web development.  
+  <strong>Fullstack Developer</strong> with over 1 year of experience in web development.  
   Passionate about backend engineering and interested in DevOps practices.  
   Focused on building scalable systems, writing clean code, and continuous learning.
 </p>
----
+
 
 ## 📫 Contact Me
 <p align="center">

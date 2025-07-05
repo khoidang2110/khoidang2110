@@ -1,26 +1,26 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<table>
+  <tr>
+    <td width="300" align="center" valign="top">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
+    </td>
+    <td style="padding-left: 20px;" valign="top">
+      <h1>Hi 👋, I'm John</h1>
+      <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
+      <p>
+        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
+        Passionate about backend engineering and interested in DevOps practices.<br>
+        Focused on building scalable systems, writing clean code, and continuous learning.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
-
-  <div>
-
-  <h1>Hi 👋, I'm John</h1>
-  <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
-
-  <p>
-    <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
-    Passionate about backend engineering and interested in DevOps practices.<br>
-    Focused on building scalable systems, writing clean code, and continuous learning.
-  </p>
-
-  </div>
-
-</div>
+<br />
 
 
 
 ## 📫 Contact Me
-<p align="center">
+<p align="center" style="padding-top: 10px;">
   <a href="mailto:marta.dev@example.com"><img src="https://img.shields.io/badge/Gmail-marta.dev@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/marta-dev"><img src="https://img.shields.io/badge/LinkedIn-Marta%20Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/marta-dev"><img src="https://img.shields.io/badge/GitHub-marta--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

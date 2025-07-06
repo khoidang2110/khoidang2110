@@ -23,8 +23,15 @@
 
 ## 📫 Contact Me
 <p align="center" style="padding-top: 10px;">
-  <a href="mailto:khoidang2110@gmail.com"><img src="https://img.shields.io/badge/Gmail-khoidang2110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/khoidang2110"><img src="https://img.shields.io/badge/GitHub-khoidang2110-2088FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:khoidang2110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-khoidang2110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/khoidang2110">
+    <img src="https://img.shields.io/badge/GitHub-khoidang2110-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+84901234567">
+    <img src="https://img.shields.io/badge/Phone-%2B84%2090%20123%204567-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
 </p>
 
 ---

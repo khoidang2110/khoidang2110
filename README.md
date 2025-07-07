@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/GitHub-khoidang2110-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="tel:+84901234567">
-    <img src="https://img.shields.io/badge/Phone-%2B84902447357-3B4F5C?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-%2B84902.447.357-3B4F5C?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </p>
 

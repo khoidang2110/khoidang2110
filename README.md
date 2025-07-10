@@ -42,14 +42,20 @@
 </span>
 
 ### 🔸 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,php,laravel,fastapi,kotlin" /> </p> <p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p> <p align="left"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,php,laravel,fastapi,kotlin" /> 
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p> 
+  p align="left"> 
+  </p>
 
 ### 🚀 DevOps & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,ubuntu,aws" /> </p> <p align="left"> <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Termius-3B4F5C?style=for-the-badge&logo=gnome-terminal&logoColor=white" /> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white" /> </p>
 
 ### 🧩 Familiar With
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,nestjs" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,springboot,nestjs" /> </p>
 
 
 

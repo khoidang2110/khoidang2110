@@ -22,17 +22,7 @@
 
 
 ## 📫 Contact Me
-<p align="center" style="padding-top: 10px;">
-  <a href="mailto:khoidang2110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-khoidang2110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/khoidang2110">
-    <img src="https://img.shields.io/badge/GitHub-khoidang2110-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+84901234567">
-    <img src="https://img.shields.io/badge/Phone-%2B84902.447.357-3B4F5C?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-</p>
+
 <div align="center">
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@khoidang357)
@@ -47,29 +37,19 @@
 ## 💻 Tech Stack
 
 ### 🔸 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<span>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,antd" />
+</span>
 
 ### 🔸 Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,php,laravel,fastapi,kotlin" /> </p> <p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p> <p align="left"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </p>
 
 ### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github&logoColor=white)
-![Termius](https://img.shields.io/badge/Termius-3B4F5C?style=for-the-badge&logo=gnome-terminal&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white)
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,ubuntu,aws" /> </p> <p align="left"> <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Termius-3B4F5C?style=for-the-badge&logo=gnome-terminal&logoColor=white" /> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white" /> </p>
 
 ### 🧩 Familiar With
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,nestjs" /> </p>
 
 
 

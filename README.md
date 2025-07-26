@@ -7,7 +7,7 @@
       <h1>Hi 👋, I'm John</h1>
       <h3>A Fullstack Developer from Vietnam who loves Backend and exploring DevOps</h3>
       <p>
-        <strong>Fullstack Developer</strong> with over 1 year of experience in web development.<br>
+        <strong>Fullstack Developer</strong> with hands-on experience in web development.<br>
         Passionate about backend engineering and interested in DevOps practices.<br>
         Focused on building scalable systems, writing clean code, and continuous learning.
       </p>

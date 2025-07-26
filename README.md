@@ -5,11 +5,11 @@
     </td>
     <td style="padding-left: 20px;" valign="top">
       <h1>Hi 👋, I'm John</h1>
-      <h3>Fullstack Developer from Vietnam | Backend Enthusiast | DevOps Explorer</h3>
-       <p>
-        <strong>Fullstack Developer</strong> with practical experience building web applications from front to backend.<br>
-        Interested in backend architecture and curious about modern DevOps tools.<br>
-        Enjoys writing clean, scalable code and always looking to learn something new.
+      <h3>Fullstack Developer from Vietnam | Loves Backend</h3>
+      <p>
+        <strong>Fullstack Developer</strong> with practical experience building web applications across the stack.<br>
+        Especially enjoys working on backend systems and improving application performance.<br>
+        Passionate about clean code, system design, and always eager to explore new technologies.
       </p>
     </td>
   </tr>

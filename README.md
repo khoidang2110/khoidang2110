@@ -5,12 +5,12 @@
     </td>
     <td style="padding-left: 20px;" valign="top">
       <h1>Hi 👋, I'm John</h1>
-      <h3>Fullstack Developer from Vietnam | Loves Backend</h3>
-      <p>
-        <strong>Fullstack Developer</strong> with practical experience building web applications across the stack.<br>
-        Especially enjoys working on backend systems and improving application performance.<br>
-        Passionate about clean code, system design, and always eager to explore new technologies.
-      </p>
+    <h3>Web Developer from Vietnam</h3>
+  <p>
+    <strong>Web Developer</strong> with hands-on experience building modern web applications across the full stack.<br>
+    Especially enjoys working on backend systems and optimizing application performance.<br>
+    Passionate about clean code, system architecture, and constantly exploring new technologies.
+  </p>
     </td>
   </tr>
 </table>

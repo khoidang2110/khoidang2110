@@ -59,6 +59,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoidang2110&theme=dark&show_icons=true" />

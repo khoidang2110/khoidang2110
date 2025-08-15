@@ -61,5 +61,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoidang2110&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khoidang2110&theme=dark&show_icons=true" />
 </p>

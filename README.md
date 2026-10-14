@@ -36,6 +36,16 @@
 - **Full-stack web applications** — React interfaces integrated with production backend services.
 - **Infrastructure & observability** — containerized services, CI/CD, monitoring and production operations.
 
+## ☁️ Cloud & Infrastructure
+
+I work with both cloud and self-hosted infrastructure to support application development, deployment and operations.
+
+- **Google Cloud Platform** — deploy and manage production applications for international clients.
+- **On-premises** — Proxmox-based virtualization, dedicated database servers, and development/testing environments.
+- **CI/CD** — GitHub Actions with self-hosted runners.
+- **Containerization** — Docker, Nginx and Traefik for deployment and service routing.
+- **Monitoring** — Prometheus, Grafana and Dozzle for observability and troubleshooting.
+
 ## 🤖 AI-Assisted Engineering
 
 AI is part of my development workflow, not a replacement for engineering judgment.

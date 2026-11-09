@@ -23,7 +23,7 @@
 
 ## 🧠 Engineering Philosophy
 
-- **Keep it simple** — prefer a modular monolith over unnecessary microservices.
+- **Keep it simple** — choose the simplest architecture that fits the problem, and evolve it as the product scales.
 - **Design for maintainability** — Clean Architecture, dependency injection, repository pattern and clear separation of concerns.
 - **Automate repetitive work** — turn complex, multi-step workflows into reliable automated processes.
 - **Own the full lifecycle** — from design and implementation to testing, deployment and monitoring.
